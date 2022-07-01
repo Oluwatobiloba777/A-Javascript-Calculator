@@ -16,4 +16,4 @@ if (choice == '+'){
 } else{
     result = 'Invalid';  
 }
-alert('The Anwser: ',result)
+alert('The Answer: '+result)
